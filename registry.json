@@ -871,9 +871,16 @@
     "listed": true,
     "version": "2.7.0"
   },
+  "MQTTnet": {
+    "listed": true,
+    "version": "2.5.1"
+  },
   "NeoSmart.Caching.Sqlite": {
     "listed": true,
     "version": "0.1.0"
+  },
+  "NETStandard.Library": {
+    "ignore": true
   },
   "Newtonsoft.Json": {
     "listed": true,
