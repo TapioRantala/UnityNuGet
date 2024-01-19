@@ -52,6 +52,18 @@
     "listed": true,
     "version": "0.3.3"
   },
+  "Akka.Persistence.MongoDb": {
+    "listed": true,
+    "version": "1.4.1"
+  },
+  "Akka.Persistence.MongoDb.Hosting": {
+    "listed": true,
+    "version": "1.5.0.1"
+  },
+  "Akka.Persistence.Query": {
+    "listed": true,
+    "version": "1.4.1"
+  },
   "Akka.Remote": {
     "listed": true,
     "version": "1.4.1"
@@ -59,6 +71,10 @@
   "Akka.Remote.Hosting": {
     "listed": true,
     "version": "0.1.0"
+  },
+  "Akka.Streams": {
+    "listed": true,
+    "version": "1.4.1"
   },
   "Antlr4.Runtime.Standard": {
     "listed": true,
@@ -1056,6 +1072,10 @@
   "R3": {
     "listed": true,
     "version": "0.0.3"
+  },
+  "Reactive.Streams": {
+    "listed": true,
+    "version": "1.0.2"
   },
   "RestSharp": {
     "listed": true,
