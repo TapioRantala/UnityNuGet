@@ -52,6 +52,26 @@
     "listed": true,
     "version": "0.3.3"
   },
+  "Akka.Persistence.PostgreSql": {
+    "listed": true,
+    "version": "1.4.17"
+  },
+  "Akka.Persistence.PostgreSql.Hosting": {
+    "listed": true,
+    "version": "0.1.5"
+  },
+  "Akka.Persistence.Query": {
+    "listed": true,
+    "version": "1.4.1"
+  },
+  "Akka.Persistence.Query.Sql": {
+    "listed": true,
+    "version": "1.4.1"
+  },
+  "Akka.Persistence.Sql.Common": {
+    "listed": true,
+    "version": "1.4.1"
+  },
   "Akka.Remote": {
     "listed": true,
     "version": "1.4.1"
@@ -59,6 +79,10 @@
   "Akka.Remote.Hosting": {
     "listed": true,
     "version": "0.1.0"
+  },
+  "Akka.Streams": {
+    "listed": true,
+    "version": "1.4.1"
   },
   "Antlr4.Runtime.Standard": {
     "listed": true,
@@ -988,6 +1012,10 @@
     "listed": true,
     "version": "11.0.1"
   },
+  "Npgsql": {
+    "listed": true,
+    "version": "3.2.3"
+  },
   "NSubstitute": {
     "listed": true,
     "version": "4.0.0",
@@ -1056,6 +1084,10 @@
   "R3": {
     "listed": true,
     "version": "0.0.3"
+  },
+  "Reactive.Streams": {
+    "listed": true,
+    "version": "1.0.2"
   },
   "RestSharp": {
     "listed": true,
