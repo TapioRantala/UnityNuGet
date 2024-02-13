@@ -124,6 +124,8 @@ namespace UnityNuGet.Tests
                 @"MonoMod.RuntimeDetour",
                 // Versions < 2.0.0 depend on NAudio which doesn't ship .netstandard2.0.
                 @"MumbleSharp",
+                // Provides .netstandard1.0 assembly, not .netstandard2.0
+                @"Reactive.Streams",
                 // Versions < 3.2.1 depend on Nullable which doesn't ship .netstandard2.0.
                 @"Serilog.Expressions",
                 // Versions < 1.4.1 has dependencies on Microsoft.AspNetCore.*.

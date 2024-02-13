@@ -52,6 +52,18 @@
     "listed": true,
     "version": "0.3.3"
   },
+  "Akka.Persistence.Query": {
+    "listed": true,
+    "version": "1.4.1"
+  },
+  "Akka.Persistence.Redis": {
+    "listed": true,
+    "version": "1.4.4"
+  },
+  "Akka.Persistence.Redis.Hosting": {
+    "listed": true,
+    "version": "1.5.13"
+  },
   "Akka.Remote": {
     "listed": true,
     "version": "1.4.1"
@@ -59,6 +71,10 @@
   "Akka.Remote.Hosting": {
     "listed": true,
     "version": "0.1.0"
+  },
+  "Akka.Streams": {
+    "listed": true,
+    "version": "1.4.1"
   },
   "Antlr4.Runtime.Standard": {
     "listed": true,
@@ -1013,6 +1029,10 @@
     "listed": true,
     "version": "3.0.205"
   },
+  "Pipelines.Sockets.Unofficial": {
+    "listed": true,
+    "version": "1.0.0"
+  },
   "Polly": {
     "listed": true,
     "version": "6.0.1"
@@ -1064,6 +1084,10 @@
   "R3": {
     "listed": true,
     "version": "0.0.3"
+  },
+  "Reactive.Streams": {
+    "listed": true,
+    "version": "1.0.2"
   },
   "ReactiveProperty": {
     "listed": true,
@@ -1262,6 +1286,10 @@
     "listed": true,
     "version": "1.3.0"
   },
+  "StackExchange.Redis": {
+    "listed": true,
+    "version": "2.0.495"
+  },
   "Stateless": {
     "listed": true,
     "version": "4.3.0"
@@ -1304,6 +1332,10 @@
     "version": "4.5.0"
   },
   "System.Diagnostics.EventLog": {
+    "listed": true,
+    "version": "4.5.0"
+  },
+  "System.Diagnostics.PerformanceCounter": {
     "listed": true,
     "version": "4.5.0"
   },
