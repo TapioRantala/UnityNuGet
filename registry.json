@@ -48,9 +48,17 @@
     "listed": true,
     "version": "1.4.1"
   },
+  "Akka.Persistence.DynamoDb": {
+    "listed": true,
+    "version": "0.2.0"
+  },
   "Akka.Persistence.Hosting": {
     "listed": true,
     "version": "0.3.3"
+  },
+  "Akka.Persistence.Query": {
+    "listed": true,
+    "version": "1.4.1"
   },
   "Akka.Remote": {
     "listed": true,
@@ -59,6 +67,10 @@
   "Akka.Remote.Hosting": {
     "listed": true,
     "version": "0.1.0"
+  },
+  "Akka.Streams": {
+    "listed": true,
+    "version": "1.4.1"
   },
   "Antlr4.Runtime.Standard": {
     "listed": true,
@@ -97,6 +109,10 @@
     "version": "1.1.4.3"
   },
   "AWSSDK.Core": {
+    "listed": true,
+    "version": "3.7.302.8"
+  },
+  "AWSSDK.DynamoDBv2": {
     "listed": true,
     "version": "3.7.302.8"
   },
@@ -1104,6 +1120,10 @@
   "R3": {
     "listed": true,
     "version": "0.0.3"
+  },
+  "Reactive.Streams": {
+    "listed": true,
+    "version": "1.0.2"
   },
   "ReactiveProperty": {
     "listed": true,
