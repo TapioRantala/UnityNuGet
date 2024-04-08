@@ -32,6 +32,10 @@
     "listed": true,
     "version": "1.4.15"
   },
+  "Akka.Discovery": {
+    "listed": true,
+    "version": "1.4.29"
+  },
   "Akka.DistributedData": {
     "listed": true,
     "version": "1.4.1"
@@ -43,6 +47,14 @@
   "Akka.Hosting": {
     "listed": true,
     "version": "0.1.0"
+  },
+  "Akka.Http.Shim": {
+    "listed": true,
+    "version": "1.0.0"
+  },
+  "Akka.Management": {
+    "listed": true,
+    "version": "1.0.0"
   },
   "Akka.Persistence": {
     "listed": true,
@@ -130,6 +142,10 @@
     "defineConstraints": [
       "UNITY_EDITOR"
     ]
+  },
+  "Ceen.Httpd": {
+    "listed": true,
+    "version": "0.9.4"
   },
   "CircularBuffer": {
     "listed": true,

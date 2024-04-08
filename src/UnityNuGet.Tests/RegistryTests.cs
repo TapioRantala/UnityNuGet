@@ -110,6 +110,8 @@ namespace UnityNuGet.Tests
                 // All versions target "Any" and not .netstandard2.0 / 2.1
                 // It has too many versions, the minimum version is lifted so as not to process so many versions
                 @"AWSSDK.*",
+                // Moved from netstandard2.0 to netstandard2.1 in version 0.9.10 and the test does not like that
+                @"Ceen.Httpd",
                 // It has too many versions, the minimum version is lifted so as not to process so many versions
                 @"CSharpFunctionalExtensions",
                 // Some versions between 5.6.4 and 6.3.0 doesn't ship .netstandard2.0.
